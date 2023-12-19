@@ -1,0 +1,7 @@
+F:\Github\CSharp\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.exe.config
+F:\Github\CSharp\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.exe
+F:\Github\CSharp\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.pdb
+F:\Github\CSharp\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.csproj.AssemblyReference.cache
+F:\Github\CSharp\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.csproj.CoreCompileInputs.cache
+F:\Github\CSharp\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.exe
+F:\Github\CSharp\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.pdb
